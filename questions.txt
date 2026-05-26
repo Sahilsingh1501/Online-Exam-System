@@ -1,0 +1,32 @@
+101
+0
+Which C keyword is used to allocate memory dynamically?
+alloc
+malloc
+new
+create
+B
+102
+0
+Which data structure member-referencing operator is used with structure pointers?
+dot operator (.)
+arrow operator (->)
+asterisk (*)
+ampersand (&)
+B
+103
+1
+In a C union, all members share the same memory location.
+1
+104
+1
+Standard C arrays perform automatic boundary checks during compile and execution.
+0
+105
+0
+
+hello
+hi
+what
+namaste
+A
